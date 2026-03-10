@@ -1,3 +1,5 @@
+# Autor: João Henrique Peixoto Viana de Oliveira
+
 from TracoseTitulosOrganizacao import TracosOrganizacao, ColorirTitulosTracosOrganizacao, ColorirTexto, TitulosTracosOrganizacao
 from Cores import Cores
 
